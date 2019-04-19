@@ -13,7 +13,7 @@ using Swashbuckle.AspNetCore.Swagger;
 using NaijaEventAPI.Data;
 
 namespace TNaijaEventAPI
-{
+{// upload to Git Hub
 	public class Startup
 	{
 		public Startup(IConfiguration configuration)

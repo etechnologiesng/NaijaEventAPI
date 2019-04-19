@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\source\\repos\\NaijaEventAPI\\TripTracker.BackService\\NaijaEventAPI.csproj": {}
+    "C:\\Users\\Administrator\\source\\repos\\NaijaEventAPI\\NaijaAPI\\NaijaEventAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\source\\repos\\NaijaEventAPI\\TripTracker.BackService\\NaijaEventAPI.csproj": {
+    "C:\\Users\\Administrator\\source\\repos\\NaijaEventAPI\\NaijaAPI\\NaijaEventAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\NaijaEventAPI\\TripTracker.BackService\\NaijaEventAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\NaijaEventAPI\\NaijaAPI\\NaijaEventAPI.csproj",
         "projectName": "NaijaEventAPI",
-        "projectPath": "C:\\Users\\Administrator\\source\\repos\\NaijaEventAPI\\TripTracker.BackService\\NaijaEventAPI.csproj",
+        "projectPath": "C:\\Users\\Administrator\\source\\repos\\NaijaEventAPI\\NaijaAPI\\NaijaEventAPI.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\source\\repos\\NaijaEventAPI\\TripTracker.BackService\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\source\\repos\\NaijaEventAPI\\NaijaAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\ProgramData\\Xamarin\\NuGet\\",
